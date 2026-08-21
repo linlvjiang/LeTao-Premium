@@ -8,9 +8,6 @@
 |------|------|
 | [`dashboard_all.html`](./dashboard_all.html) | 四页合一交互看板（深色科技风，ECharts） |
 | [`乐淘优品经营数据分析报告.pdf`](./乐淘优品经营数据分析报告.pdf) | 经营数据分析报告（PDF） |
-| `init_git_repo.bat` | 本地 Git 仓库初始化脚本 |
-| `upload_github.bat` | 推送到 GitHub 的辅助脚本 |
-| `.gitignore` | 忽略规则 |
 
 ## 看板说明
 
