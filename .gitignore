@@ -1,0 +1,48 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+*.swp
+*~
+
+# Logs / env / secrets
+*.log
+.env
+.env.*
+.env.example
+*.pem
+credentials.json
+secrets/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+dist/
+build/
+*.egg-info/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnpm-store/
+
+# Java / Gradle / Kotlin
+.gradle/
+**/build/
+**/.kotlin/
+*.class
+*.jar
+gradle/wrapper/gradle-wrapper.jar
+
+# Misc
+_tmp/
+tmp/
+*.exe
+*.local
